@@ -14,3 +14,4 @@ All the projects listed here have a few things in common:
 ## Listing 
 
 If you'd like to submit your project, please send me a DM (@kermankohli) and then create a PR. You can edit/add projects directly at `/src/constants/items.ts`
+## Good Job ..Bisakah membawa perubahan untuk keuangan yang lebih baik lagi
